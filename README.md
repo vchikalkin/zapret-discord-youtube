@@ -15,10 +15,10 @@ discord = <img src="https://cdn-icons-png.flaticon.com/16/906/906361.png" alt="d
 youtube = <img src="https://cdn-icons-png.flaticon.com/16/3670/3670147.png" alt="youtube" style="vertical-align: middle;"/> + **Autohostlist***
 
 > [!IMPORTANT] 
-0. Отключаем Wireguard VPN, GoodbyeDPI и прочие средства обхода
-1. Скачиваем решение:  <a href="https://github.com/vchikalkin/zapret-discord-youtube/releases/download/v0.0.1/zapret-discord-youtube-0.0.1.zip">Ссылка</a>
-2. Разархивируем содержимое на системный диск
-3. Запускаем нужный вам файл
+> 0. Отключаем Wireguard VPN, GoodbyeDPI и прочие средства обхода
+> 1. Скачиваем решение:  <a href="https://github.com/vchikalkin/zapret-discord-youtube/releases/download/v0.0.1/zapret-discord-youtube-0.0.1.zip">Ссылка</a>
+> 2. Разархивируем содержимое на системный диск
+> 3. Запускаем нужный вам файл
 > Рекомендую запускать **service_all.bat**, который разблокирует доступ к YouTube, Discord и автоматически будет добавлять недоступные хосты в список
 
 > [!CAUTION] 
