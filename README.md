@@ -15,4 +15,7 @@ discord = <img src="https://cdn-icons-png.flaticon.com/16/906/906361.png" alt="d
 youtube = <img src="https://cdn-icons-png.flaticon.com/16/3670/3670147.png" alt="youtube" style="vertical-align: middle;"/> + **Autohostlist***
 
 > [!IMPORTANT]  
-Рекомендую запускать **service_all.bat**
+> Рекомендую запускать **service_all.bat**
+
+> [!CAUTION] 
+> Автоматическое добавление недоступных хостов в список происходит после 3-х неудачных попыток запроса. Так что нужно пообновлять страничку несколько раз, чтобы заблокированный сервис открылся.
